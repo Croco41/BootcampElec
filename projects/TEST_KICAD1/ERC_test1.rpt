@@ -1,0 +1,19 @@
+Rapport ERC (2025-11-20T17:09:15+0100, Encodage UTF8)
+
+***** Feuille /
+[power_pin_not_driven]: Pin entrée de puissance pilotée par aucune pin sortie de puissance
+    ; error
+    @(1400 mils, 4900 mils): Symbol #PWR01 Pin 1 [Power input, Ligne]
+[power_pin_not_driven]: Pin entrée de puissance pilotée par aucune pin sortie de puissance
+    ; error
+    @(6350 mils, 4950 mils): Symbol #PWR04 Pin 1 [Power input, Ligne]
+[multiple_net_names]: RAW et VCC sont attachés aux mêmes éléments.  RAW a été choisi comme label  en netliste
+    ; warning
+    @(8400 mils, 3850 mils): Label Global 'RAW'
+    @(4600 mils, 5350 mils): Symbol #PWR02 Pin 1 [Power input, Ligne]
+[multiple_net_names]: DTR et RST sont attachés aux mêmes éléments.  DTR a été choisi comme label  en netliste
+    ; warning
+    @(9700 mils, 2000 mils): Label Global 'DTR'
+    @(9700 mils, 1700 mils): Label Global 'RST'
+
+** messages ERC: 4  Erreurs 2  Avertissements 2
