@@ -1141,10 +1141,10 @@
 				(end 1.27 -15.24)
 				(stroke
 					(width 0.254)
-					(type default)
+					(type solid)
 				)
 				(fill
-					(type background)
+					(type none)
 				)
 			)
 			(rectangle
@@ -1554,10 +1554,10 @@
 				(end 1.27 -7.62)
 				(stroke
 					(width 0.254)
-					(type default)
+					(type solid)
 				)
 				(fill
-					(type background)
+					(type none)
 				)
 			)
 			(rectangle

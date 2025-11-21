@@ -246,7 +246,9 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
+    "pinned_footprint_libs": [
+      "MyLibraryFootprint"
+    ],
     "pinned_symbol_libs": [
       "New_Library"
     ]
