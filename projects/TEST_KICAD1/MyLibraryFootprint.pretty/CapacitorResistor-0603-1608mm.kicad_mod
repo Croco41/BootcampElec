@@ -1,4 +1,4 @@
-(footprint "Capacitor0603-100nF"
+(footprint "CapacitorResistor-0603-1608mm"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
@@ -15,8 +15,8 @@
 			)
 		)
 	)
-	(property "Value" "Capacitor0603-100nF"
-		(at 0.37 2.35 0)
+	(property "Value" "CapacitorResistor-0603-1608mm"
+		(at 0.03 1.93 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "65c9aee0-6b1e-47cf-a71a-44974d761dfa")
@@ -54,9 +54,29 @@
 		)
 	)
 	(attr smd)
+	(fp_line
+		(start -0.2 -0.5)
+		(end 0.2 -0.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3e7d41a4-6848-4a4c-95d2-02d5e296aa9b")
+	)
+	(fp_line
+		(start -0.2 0.5)
+		(end 0.2 0.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8b664f99-90b2-49f1-95ce-85423a88621b")
+	)
 	(fp_rect
-		(start -1.35 -0.6)
-		(end 1.35 0.6)
+		(start -1.45 -0.7)
+		(end 1.45 0.7)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -117,16 +137,18 @@
 			)
 		)
 	)
-	(pad "1" smd rect
+	(pad "1" smd roundrect
 		(at 0.75 0)
 		(size 0.9 0.9)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
 		(uuid "f7ebf662-4751-4298-ae96-999d70fd570c")
 	)
-	(pad "2" smd rect
+	(pad "2" smd roundrect
 		(at -0.75 0)
 		(size 0.9 0.9)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
 		(uuid "67c9ebb3-a1b9-4a9e-9f70-da459503f48f")
 	)
 	(embedded_fonts no)
