@@ -1,4 +1,4 @@
-(footprint "Switch_button_B3U-1000P"
+(footprint "MLF-Switch_button_B3U-1000P"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
@@ -15,7 +15,7 @@
 			)
 		)
 	)
-	(property "Value" "Switch_button_B3U-1000P"
+	(property "Value" "MLF-Switch_button_B3U-1000P"
 		(at 0.34 3.03 0)
 		(unlocked yes)
 		(layer "F.Fab")

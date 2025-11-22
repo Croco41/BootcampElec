@@ -1,4 +1,4 @@
-(footprint "Crystal"
+(footprint "MLF-Crystal"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
@@ -15,7 +15,7 @@
 			)
 		)
 	)
-	(property "Value" "Crystal"
+	(property "Value" "MLF-Crystal"
 		(at -0.26 -8.69 0)
 		(unlocked yes)
 		(layer "F.Fab")

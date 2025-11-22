@@ -1,0 +1,78 @@
+(footprint "MLF-connector"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0.09 -4.15 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "6031aaff-1327-44e7-95b7-00d9caee3c44")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "MLF-connector"
+		(at -0.02 2.89 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "8e9f03c5-84c1-4ca2-b307-fab4dde0e7b9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1fa850cc-58b6-46fe-af99-c994a5b1d015")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "66cccbd1-1c39-401b-b5db-bc7a8b93ab91")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_text user "${REFERENCE}"
+		(at -0.54 -2.87 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "3f9be54d-4847-41f8-8ad8-54ed979e5064")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 0.04 0.05)
+		(size 1.905 1.905)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "32b87b60-eb5c-4229-ba23-130aec5dce19")
+	)
+	(embedded_fonts no)
+)

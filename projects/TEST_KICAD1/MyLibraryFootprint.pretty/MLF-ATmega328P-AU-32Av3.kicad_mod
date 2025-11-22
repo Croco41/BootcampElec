@@ -1,4 +1,4 @@
-(footprint "ATmega328P-AU-32Av3"
+(footprint "MLF-ATmega328P-AU-32Av3"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
@@ -14,7 +14,7 @@
 			)
 		)
 	)
-	(property "Value" "ATmega328P-AU-32Av3"
+	(property "Value" "MLF-ATmega328P-AU-32Av3"
 		(at 0 6.05 0)
 		(layer "F.Fab")
 		(uuid "ffcb9aaf-75a3-4ef3-833d-252cbde92a0d")

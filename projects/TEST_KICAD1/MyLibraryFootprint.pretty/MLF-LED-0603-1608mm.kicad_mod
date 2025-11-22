@@ -1,4 +1,4 @@
-(footprint "CapacitorResistor-0603-1608mm"
+(footprint "MLF-LED-0603-1608mm"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
@@ -15,7 +15,7 @@
 			)
 		)
 	)
-	(property "Value" "CapacitorResistor-0603-1608mm"
+	(property "Value" "MLF-LED-0603-1608mm"
 		(at 0.03 1.93 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -55,24 +55,34 @@
 	)
 	(attr smd)
 	(fp_line
-		(start -0.2 -0.5)
-		(end 0.2 -0.5)
+		(start -1.45 0.69)
+		(end -1.45 -0.69)
 		(stroke
 			(width 0.1)
-			(type solid)
+			(type default)
 		)
 		(layer "F.SilkS")
-		(uuid "3e7d41a4-6848-4a4c-95d2-02d5e296aa9b")
+		(uuid "97c45b25-4e55-4e22-8a28-60d3cd2340bb")
 	)
 	(fp_line
-		(start -0.2 0.5)
-		(end 0.2 0.5)
+		(start -1.45 0.69)
+		(end -0.45 0.69)
 		(stroke
 			(width 0.1)
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "8b664f99-90b2-49f1-95ce-85423a88621b")
+		(uuid "2b4399b3-c319-4ec9-98b0-4391631d9f10")
+	)
+	(fp_line
+		(start -0.45 -0.69)
+		(end -1.45 -0.69)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ceb71578-4484-4545-86de-9207d411d760")
 	)
 	(fp_rect
 		(start -1.45 -0.7)
@@ -138,18 +148,18 @@
 		)
 	)
 	(pad "1" smd roundrect
-		(at 0.75 0)
-		(size 0.9 0.9)
-		(layers "F.Cu" "F.Mask" "F.Paste")
-		(roundrect_rratio 0.25)
-		(uuid "f7ebf662-4751-4298-ae96-999d70fd570c")
-	)
-	(pad "2" smd roundrect
 		(at -0.75 0)
 		(size 0.9 0.9)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
 		(uuid "67c9ebb3-a1b9-4a9e-9f70-da459503f48f")
+	)
+	(pad "2" smd roundrect
+		(at 0.75 0)
+		(size 0.9 0.9)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "f7ebf662-4751-4298-ae96-999d70fd570c")
 	)
 	(embedded_fonts no)
 )
