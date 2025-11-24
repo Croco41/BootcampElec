@@ -101,7 +101,7 @@
 		(uuid "05039f6c-3c46-418b-a42f-e05942a99fb5")
 		(effects
 			(font
-				(size 0.7 0.7)
+				(size 0.8 0.8)
 				(thickness 0.125)
 			)
 			(justify bottom mirror)
@@ -114,7 +114,7 @@
 		(uuid "083ec039-301a-452f-9d63-c2095d393703")
 		(effects
 			(font
-				(size 0.7 0.7)
+				(size 0.8 0.8)
 				(thickness 0.125)
 			)
 			(justify left bottom mirror)
@@ -127,7 +127,7 @@
 		(uuid "42357a3f-99a0-4049-929e-fc1c2a7d252b")
 		(effects
 			(font
-				(size 0.7 0.7)
+				(size 0.8 0.8)
 				(thickness 0.125)
 			)
 			(justify bottom mirror)
@@ -140,7 +140,7 @@
 		(uuid "43dd4cf2-3fb0-4591-a5ce-3165e082b499")
 		(effects
 			(font
-				(size 0.7 0.7)
+				(size 0.8 0.8)
 				(thickness 0.125)
 			)
 			(justify bottom mirror)
@@ -153,7 +153,7 @@
 		(uuid "444a1608-6d9f-4b80-9fd5-867d44809c11")
 		(effects
 			(font
-				(size 0.7 0.7)
+				(size 0.8 0.8)
 				(thickness 0.125)
 			)
 			(justify bottom mirror)
@@ -166,7 +166,7 @@
 		(uuid "6e0244a3-fe26-4640-bec2-30da5cb92172")
 		(effects
 			(font
-				(size 0.7 0.7)
+				(size 0.8 0.8)
 				(thickness 0.125)
 			)
 			(justify left bottom mirror)
@@ -179,7 +179,7 @@
 		(uuid "94e48d58-58b2-4c76-ac97-cb96e51294e3")
 		(effects
 			(font
-				(size 0.7 0.7)
+				(size 0.8 0.8)
 				(thickness 0.125)
 			)
 			(justify left bottom mirror)
@@ -192,7 +192,7 @@
 		(uuid "b53d15c4-4764-408c-af84-9f4afe902802")
 		(effects
 			(font
-				(size 0.7 0.7)
+				(size 0.8 0.8)
 				(thickness 0.125)
 			)
 			(justify bottom mirror)
@@ -205,7 +205,7 @@
 		(uuid "cc34bb56-2e00-40ea-8f68-b27308f85e57")
 		(effects
 			(font
-				(size 0.7 0.7)
+				(size 0.8 0.8)
 				(thickness 0.125)
 			)
 			(justify left bottom mirror)
@@ -218,7 +218,7 @@
 		(uuid "cced1b53-9aa1-4adc-b3a3-c93ea2966703")
 		(effects
 			(font
-				(size 0.7 0.7)
+				(size 0.8 0.8)
 				(thickness 0.125)
 			)
 			(justify bottom mirror)
@@ -231,7 +231,7 @@
 		(uuid "dd18d0d3-0942-45f9-a8c3-b95f5b2d644f")
 		(effects
 			(font
-				(size 0.7 0.7)
+				(size 0.8 0.8)
 				(thickness 0.125)
 			)
 			(justify bottom mirror)
@@ -244,7 +244,7 @@
 		(uuid "f62a0e86-387c-4c9c-8999-95d91e31fa54")
 		(effects
 			(font
-				(size 0.7 0.7)
+				(size 0.8 0.8)
 				(thickness 0.125)
 			)
 			(justify bottom mirror)
