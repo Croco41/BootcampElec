@@ -31,7 +31,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://ww1.microchip.com/downloads/aemDocuments/documents/MCU08/ProductDocuments/DataSheets/ATmega48A-PA-88A-PA-168A-PA-328-P-DS-DS40002061B.pdf"
 			(at 0 0 0)
 			(effects
 				(font
@@ -794,7 +794,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/Yangxing-Tech-X322516MLB4SI_C13738.pdf"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2032,6 +2032,24 @@
 				(hide yes)
 			)
 		)
+		(property "Caracteristiques" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacture Part Number" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(symbol "R_0_1"
 			(rectangle
 				(start -1.27 2.54)
@@ -2131,6 +2149,35 @@
 			)
 		)
 		(property "Description" "Push Button switch"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacture Part Number" "B3U-1000P "
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Caracteristiques" "12V 2.5mm Round Button 3mm SPST 50mA SMD,3x2.5mm Tactile Switches RoHS "
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "Buttom bouton push switch"
 			(at 0 0 0)
 			(effects
 				(font

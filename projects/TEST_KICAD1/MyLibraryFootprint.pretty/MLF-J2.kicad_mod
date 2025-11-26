@@ -11,7 +11,7 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.1)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -54,159 +54,131 @@
 		)
 	)
 	(attr smd)
-	(fp_line
-		(start -1.74 -8.58)
-		(end -1.74 22.9)
+	(fp_rect
+		(start -1.85 -9.07)
+		(end 3.19 22.45)
 		(stroke
 			(width 0.05)
-			(type solid)
+			(type default)
 		)
+		(fill no)
 		(layer "F.CrtYd")
-		(uuid "14d6303f-226a-4b0a-8c15-aaad789a773a")
-	)
-	(fp_line
-		(start -1.74 22.9)
-		(end 1.8 22.9)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-		(uuid "ce2b1213-5761-4a2a-a4a8-a1ecb711fc60")
-	)
-	(fp_line
-		(start 1.8 -8.58)
-		(end -1.74 -8.58)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-		(uuid "d42d3e73-aaaf-43d1-8c5e-c61f4f886b44")
-	)
-	(fp_line
-		(start 1.8 22.9)
-		(end 1.8 -8.58)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-		(uuid "b52a7f7c-eeb4-4b53-bfb2-2692cbe12b56")
+		(uuid "d55cdc50-b399-40af-be01-55fd2a9fccf7")
 	)
 	(fp_text user "A1"
-		(at 0.9 5.8 270)
+		(at 1.23 5.84 270)
 		(unlocked yes)
 		(layer "B.SilkS")
 		(uuid "05039f6c-3c46-418b-a42f-e05942a99fb5")
 		(effects
 			(font
-				(size 0.8 0.8)
-				(thickness 0.125)
+				(size 1 1)
+				(thickness 0.15)
 			)
 			(justify bottom mirror)
 		)
 	)
 	(fp_text user "D10"
-		(at 0.9 -5.7 270)
+		(at 1.12 -7.27 270)
 		(unlocked yes)
 		(layer "B.SilkS")
 		(uuid "083ec039-301a-452f-9d63-c2095d393703")
 		(effects
 			(font
-				(size 0.8 0.8)
-				(thickness 0.125)
+				(size 1 1)
+				(thickness 0.15)
 			)
-			(justify left bottom mirror)
+			(justify bottom mirror)
 		)
 	)
 	(fp_text user "A3"
-		(at 0.9 11 270)
+		(at 1.23 10.88 270)
 		(unlocked yes)
 		(layer "B.SilkS")
 		(uuid "42357a3f-99a0-4049-929e-fc1c2a7d252b")
 		(effects
 			(font
-				(size 0.8 0.8)
-				(thickness 0.125)
+				(size 1 1)
+				(thickness 0.15)
 			)
 			(justify bottom mirror)
 		)
 	)
 	(fp_text user "D13"
-		(at 0.9 0.9 270)
+		(at 1.23 1.15 270)
 		(unlocked yes)
 		(layer "B.SilkS")
 		(uuid "43dd4cf2-3fb0-4591-a5ce-3165e082b499")
 		(effects
 			(font
-				(size 0.8 0.8)
-				(thickness 0.125)
+				(size 1 1)
+				(thickness 0.15)
 			)
 			(justify bottom mirror)
 		)
 	)
 	(fp_text user "A2"
-		(at 0.9 8.4 270)
+		(at 1.16 8.29 270)
 		(unlocked yes)
 		(layer "B.SilkS")
 		(uuid "444a1608-6d9f-4b80-9fd5-867d44809c11")
 		(effects
 			(font
-				(size 0.8 0.8)
-				(thickness 0.125)
+				(size 1 1)
+				(thickness 0.15)
+				(bold yes)
 			)
 			(justify bottom mirror)
 		)
 	)
 	(fp_text user "D12"
-		(at 0.9 -0.8 270)
+		(at 1.19 -1.56 270)
 		(unlocked yes)
 		(layer "B.SilkS")
 		(uuid "6e0244a3-fe26-4640-bec2-30da5cb92172")
 		(effects
 			(font
-				(size 0.8 0.8)
-				(thickness 0.125)
+				(size 1 1)
+				(thickness 0.15)
 			)
-			(justify left bottom mirror)
+			(justify bottom mirror)
 		)
 	)
 	(fp_text user "D11"
-		(at 0.9 -3.2 270)
+		(at 1.19 -4.37 270)
 		(unlocked yes)
 		(layer "B.SilkS")
 		(uuid "94e48d58-58b2-4c76-ac97-cb96e51294e3")
 		(effects
 			(font
-				(size 0.8 0.8)
-				(thickness 0.125)
+				(size 1 1)
+				(thickness 0.15)
 			)
-			(justify left bottom mirror)
+			(justify bottom mirror)
 		)
 	)
 	(fp_text user "5V"
-		(at 0.9 13.55 270)
+		(at 1.16 13.51 270)
 		(unlocked yes)
 		(layer "B.SilkS")
 		(uuid "b53d15c4-4764-408c-af84-9f4afe902802")
 		(effects
 			(font
-				(size 0.8 0.8)
-				(thickness 0.125)
+				(size 1 1)
+				(thickness 0.15)
 			)
 			(justify bottom mirror)
 		)
 	)
 	(fp_text user "A0"
-		(at 0.9 4 270)
+		(at 1.19 4.53 270)
 		(unlocked yes)
 		(layer "B.SilkS")
 		(uuid "cc34bb56-2e00-40ea-8f68-b27308f85e57")
 		(effects
 			(font
-				(size 0.8 0.8)
-				(thickness 0.125)
+				(size 1 1)
+				(thickness 0.15)
 			)
 			(justify left bottom mirror)
 		)
@@ -231,21 +203,21 @@
 		(uuid "dd18d0d3-0942-45f9-a8c3-b95f5b2d644f")
 		(effects
 			(font
-				(size 0.8 0.8)
-				(thickness 0.125)
+				(size 1 1)
+				(thickness 0.15)
 			)
 			(justify bottom mirror)
 		)
 	)
 	(fp_text user "RST"
-		(at 0.9 16.1 270)
+		(at 1.23 16.33 270)
 		(unlocked yes)
 		(layer "B.SilkS")
 		(uuid "f62a0e86-387c-4c9c-8999-95d91e31fa54")
 		(effects
 			(font
-				(size 0.8 0.8)
-				(thickness 0.125)
+				(size 1 1)
+				(thickness 0.15)
 			)
 			(justify bottom mirror)
 		)

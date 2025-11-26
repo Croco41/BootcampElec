@@ -11,7 +11,7 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.1)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -54,120 +54,91 @@
 		)
 	)
 	(attr smd)
-	(fp_line
-		(start -1.94 -9.84)
-		(end -1.94 6.4)
+	(fp_rect
+		(start -1.49 -10.01)
+		(end 2.45 6.67)
 		(stroke
 			(width 0.05)
-			(type solid)
+			(type default)
 		)
+		(fill no)
 		(layer "F.CrtYd")
-		(uuid "bdcb721b-6a51-44cf-9ede-9dbc83af49b9")
-	)
-	(fp_line
-		(start -1.94 6.4)
-		(end 1.6 6.4)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-		(uuid "712f9305-b03d-45ed-858f-e91e8750778a")
-	)
-	(fp_line
-		(start 1.6 -9.84)
-		(end -1.94 -9.84)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-		(uuid "9a311bde-bfe6-4a1c-ae2c-1f11f66e8bc6")
-	)
-	(fp_line
-		(start 1.6 6.4)
-		(end 1.6 -9.84)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-		(uuid "b9403724-a471-4628-b516-234d1ad24f63")
+		(uuid "35a4783a-4ee1-4f87-89d3-de2283d8ce4e")
 	)
 	(fp_text user "5V"
-		(at 0.7 -0.45 270)
+		(at 0.78 -0.52 270)
 		(unlocked yes)
 		(layer "B.SilkS")
 		(uuid "4e58b9d7-7247-4380-a3fe-fcde54b7918c")
 		(effects
 			(font
-				(size 0.8 0.8)
-				(thickness 0.1)
+				(size 1 1)
+				(thickness 0.15)
 			)
 			(justify bottom mirror)
 		)
 	)
 	(fp_text user "GND"
-		(at 0.65 4.65 270)
+		(at 0.8 4.9 270)
 		(unlocked yes)
 		(layer "B.SilkS")
 		(uuid "66543b97-3993-41c7-a613-0d2bfdffb8c2")
 		(effects
 			(font
-				(size 0.8 0.8)
-				(thickness 0.1)
+				(size 1 1)
+				(thickness 0.15)
 			)
 			(justify bottom mirror)
 		)
 	)
 	(fp_text user "RX"
-		(at 0.7 -5.5 270)
+		(at 0.84 -5.51 270)
 		(unlocked yes)
 		(layer "B.SilkS")
 		(uuid "8f960da0-055e-4959-b9ec-118d07f5c0c1")
 		(effects
 			(font
-				(size 0.8 0.8)
-				(thickness 0.1)
+				(size 1 1)
+				(thickness 0.15)
 			)
 			(justify bottom mirror)
 		)
 	)
 	(fp_text user "TX"
-		(at 0.7 -3 270)
+		(at 0.82 -3.04 270)
 		(unlocked yes)
 		(layer "B.SilkS")
 		(uuid "928b8100-4f32-4203-87c8-adc76d8b27b5")
 		(effects
 			(font
-				(size 0.8 0.8)
-				(thickness 0.1)
+				(size 1 1)
+				(thickness 0.15)
 			)
 			(justify bottom mirror)
 		)
 	)
 	(fp_text user "DTR"
-		(at 0.7 -8.05 270)
+		(at 0.84 -7.97 270)
 		(unlocked yes)
 		(layer "B.SilkS")
 		(uuid "d5943f47-e23a-4f59-940c-2a95f991061f")
 		(effects
 			(font
-				(size 0.8 0.8)
-				(thickness 0.1)
+				(size 1 1)
+				(thickness 0.15)
 			)
 			(justify bottom mirror)
 		)
 	)
 	(fp_text user "GND"
-		(at 0.7 2.1 270)
+		(at 0.84 1.93 270)
 		(unlocked yes)
 		(layer "B.SilkS")
 		(uuid "e21739ea-0ada-406a-a69b-ae20f17c7072")
 		(effects
 			(font
-				(size 0.8 0.8)
-				(thickness 0.1)
+				(size 1 1)
+				(thickness 0.15)
 			)
 			(justify bottom mirror)
 		)
